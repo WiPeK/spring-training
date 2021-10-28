@@ -5,4 +5,4 @@ spring.jpa:
       ddl-auto: none
 spring:
   datasource:
-    password: '{cipher}5a26fa37aa01b933f044f06d7b5aadad048069d7612a4050def9aff5e165a1283a721b8e44de744fc0ce3347efb70fb8'
+    password: '{cipher}1fd14da359ed47650b1d5b014883fbb803bd1f79344f548302ac42b81293a3f6e27da2150717b4e2f3e157caba139e85'
