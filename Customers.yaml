@@ -1,4 +1,1 @@
 server.port: 0
-spring:
-  datasource:
-    password: '{cipher}644476d62d93b78f87250ab20cc9b6c48693c42cafe05b0f0735025c65a0145f5f37e13a1079b700b6e3e41c97fac010'
