@@ -1,4 +1,4 @@
 server.port: 0
 custom:
   api:
-    version: 7
+    version: 8
